@@ -1,0 +1,4 @@
+starting,starting,starting,starting,starting,starting,starting,z,path,path,path,path,path,path,z,db,db,db,db,db,db,db,db,db,db
+id,year,id_consob,familyowner_name_1,family_surname_1,founder_name,founder_surname,z,voto_maggiorato_path,voto_plurimo_path,azionariato_path,capitale_sociale_path,organi_sociali_path,part_ril_path,z,dichiarante_1,quota_1,dichiarante_2,quota_2,.,.,nominativo_1,carica_1,,
+ALERION CLEAN POWER SPA,2000,alerion,nipote,alerion,nonno,alerion,z,resources/loyalty_shares/voto_maggiorato.csv,resources/loyalty_shares/voto_plurimo.csv,resources/html_files/alerion_2000,resources/html_files/alerion_2000,resources/html_files/alerion_2000,resources/html_files/alerion_2000,z,,,,,,,,,,
+ALERION CLEAN POWER SPA,2001,alerion,,,,,z,resources/loyalty_shares/voto_maggiorato.csv,resources/loyalty_shares/voto_plurimo.csv,resources/html_files/alerion_2000,resources/html_files/alerion_2000,resources/html_files/alerion_2000,resources/html_files/alerion_2000,z,,,,,,,,,,
