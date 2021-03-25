@@ -2,7 +2,7 @@
 pip install -r requirements.txt
 
 *STUDY MATERIALS
-see "resources/vardescribe.csv"
+
 
 *FROM HTML TO CSV
 from "resources/links.txt", fill "resources/html_files" and "resources/loyalty_shares"
