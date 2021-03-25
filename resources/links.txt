@@ -1,0 +1,2 @@
+https://www.consob.it/web/area-pubblica/quotate?viewId=export_quotate
+https://www.consob.it/web/area-pubblica/quotate/main/emittenti/societa_quotate/voto_maggiorato_plurimo_lnk.htm?nav=true
