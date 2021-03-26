@@ -2,6 +2,7 @@
 pip install -r requirements.txt
 
 *STUDY MATERIALS
+https://www.consob.it/web/consob/mappa -> "Regolamentazione"
 https://www.consob.it/web/area-pubblica/quotate
 https://www.consob.it/web/area-pubblica/maggiorazione-diritto-di-voto-e-azioni-a-voto-plurimo
 https://www.consob.it/web/area-pubblica/patti-parasociali
@@ -24,3 +25,6 @@ py main.py -sha
 
 *SEE RESULTS
 see "results/database.csv" and "results/sha/"
+
+*STUDY MATERIALS - OPTIONAL
+https://www.consob.it/web/consob-and-its-activities/regulation
